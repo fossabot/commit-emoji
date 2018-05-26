@@ -39,9 +39,10 @@ $ go get -u github.com/micnncim/commit-emoji
 
 ## :bulb: Example
 
-Emoji example
+Emoji examples
 
-[parmentf/GitCommitEmoji.md](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
+- [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
+- [parmentf/GitCommitEmoji.md](https://gist.github.com/parmentf/035de27d6ed1dce0b36a)
 
 ## :bust_in_silhouette: Author
 
